@@ -1,0 +1,16 @@
+.Lottery {
+  border: solid 2px gray;
+  border-radius: 10px;
+  width: 40rem;
+  text-align: center;
+  padding: 1em 0 2em 0;
+  margin: 1em auto auto;
+}
+
+.Lottery-btn {
+  background-color: darkblue;
+  color: #fff;
+  border-radius: 10px;
+  font-size: 120%;
+  margin-top: 1em;
+}
